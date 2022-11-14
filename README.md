@@ -1,2 +1,8 @@
-# EchoDashboard
-Echo Lab Dashboard
+# Echo Dashboard
+Echo Lab Metrics and Performance Measures
+</br>
+</br>
+See the [dashboard here.](https://nickpeckover.shinyapps.io/PSPHEchoLab/)
+</br>
+</br>
+The pipeline.R file is the R code used to convert a nasty and complicated Excel file into a few useable tables. The original data is not included here for privacy reasons.
