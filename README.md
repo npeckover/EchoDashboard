@@ -8,4 +8,4 @@ See the [dashboard here.](https://nickpeckover.shinyapps.io/PSPHEchoLab/)
 The pipeline.R file is the R code used to convert a nasty and complicated Excel file into a few useable tables. The original data is not included here for privacy reasons.
 </br> 
 </br>
-New April 23: uploaded Tableau packaged workbook, flow file, and pdf preview file
+New April 23: uploaded Tableau packaged workbook, flow file, and [pdf preview file](https://github.com/npeckover/EchoDashboard/blob/main/log_sheet_db.pdf)
